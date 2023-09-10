@@ -2,4 +2,4 @@
 Meu primeiro repositório
 + # About me
 +
-+ My name is Gabriel
++ My name is Gabriel Henrique
